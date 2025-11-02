@@ -1,0 +1,40 @@
+📊 **Customer Churn Insights (Telecom)**
+
+**Dataset Overview:**
+7,043 customers with demographic, service, and billing data.
+
+**Overall Churn Rate: 26%**
+
+🔍 **Major Findings**
+
+Factor	Observation	Impact on Churn:
+
+Contract Type	43% churn in month-to-month vs 11% for yearly contracts	🔴 Very High
+Payment Method	Electronic check customers churn 40%	🔴 High
+Tenure	Customers <12 months churn 3x higher	🔴 High
+Internet Service	Fiber optic users churn 30%	🟠 Moderate
+Gender / Partner / Dependents	Minimal effect	🟢 Low
+
+
+📈 **Visual Insights from Power BI**
+
+ - Churn decreases sharply after 12 months.
+
+ - Electronic Check users have the highest churn rate, possibly due to billing issues or lack of auto-pay.
+
+ - Month-to-month contracts dominate churned customers — short-term flexibility drives higher turnover.
+
+ - Fiber optic churn suggests dissatisfaction or pricing competition.
+
+
+💼 **Recommendations**
+
+Customer Retention Campaigns: Offer discounts for switching to annual contracts.
+
+Payment Incentives: Promote auto-payment methods with small discounts.
+
+Onboarding Program: Improve early engagement (first 3–6 months).
+
+Customer Feedback: Collect NPS/feedback from fiber optic users.
+
+Loyalty Benefits: Introduce rewards for tenure >24 months.
